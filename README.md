@@ -1,5 +1,9 @@
 "# DIY-MIDI-Keyboard" 
 
+Code explaination here;
+
+https://bloghoskins.blogspot.com/2022/05/diy-midi-keyboard.html
+
 You'll need;
 
 15x   Push buttons (push to make type)
