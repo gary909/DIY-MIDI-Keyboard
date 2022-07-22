@@ -25,6 +25,8 @@ _____________________________________________________________________
 
 # MIDI Keyboard With Arpeggiator
 
+https://bloghoskins.blogspot.com/2022/07/midi-keyboard-plus-arpeggiator.html
+
 Features;
 
 Pot for tempo<br />
