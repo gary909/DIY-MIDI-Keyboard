@@ -1,4 +1,6 @@
-"DIY-MIDI-Keyboard" 
+# DIY-MIDI-Keyboard 
+_____________________________________________________________________
+
 
 See further down for Arp version.
 
@@ -6,13 +8,13 @@ MIDI Keyboard
 
 You'll need;
 
-15x   Push buttons (push to make type)
-15x   10k Ohm resistor
-2x     220 Ohm resistor
-1x     270 Ohm resistor
-1x     LED
-1x     Arduino Nano
-1x     MIDI DIN Connector
+15x   Push buttons (push to make type)<br />
+15x   10k Ohm resistor<br />
+2x     220 Ohm resistor<br />
+1x     270 Ohm resistor<br />
+1x     LED<br />
+1x     Arduino Nano<br />
+1x     MIDI DIN Connector<br />
 
 ![MIDI Keyboard image](DIY_midi_Keyboard.jpg)
 
@@ -21,19 +23,19 @@ You'll need;
 
 _____________________________________________________________________
 
-MIDI Keyboard With Arpeggiator.
+# MIDI Keyboard With Arpeggiator
 
 You'll need;
 
-17x   Push buttons (push to make type)
-17x   10k Ohm resistor
-2x     220 Ohm resistor
-1x     270 Ohm resistor
-1x     LED
-1x     Arduino Nano
-1x     MIDI DIN Connector
-2x     Pots 
-1x     on/off switch
+17x   Push buttons (push to make type)<br />
+17x   10k Ohm resistor<br />
+2x     220 Ohm resistor<br />
+1x     270 Ohm resistor<br />
+1x     LED<br />
+1x     Arduino Nano<br />
+1x     MIDI DIN Connector<br />
+2x     Pots <br />
+1x     on/off switch<br />
 
 ![Fritzing image](Arduino_MIDI_Keyboard_plus_ARP_bb.png)
 
