@@ -27,12 +27,12 @@ _____________________________________________________________________
 
 Features;
 
-Pot for tempo
-Pot for velocity
-Button with 5 Arp-modes
-Arp stop button
-Keyboard Octave Buttons with responsive LED brightness
-Switch to chose between keyboard and ARP mode  
+Pot for tempo<br />
+Pot for velocity<br />
+Button with 5 Arp-modes<br />
+Arp stop button<br />
+Keyboard Octave Buttons with responsive LED brightness<br />
+Switch to chose between keyboard and ARP mode  <br />
 
 
 Note: to upload code to the board, you'll need the switch set to the left (aka keyboard mode)
