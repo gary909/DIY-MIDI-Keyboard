@@ -25,6 +25,19 @@ _____________________________________________________________________
 
 # MIDI Keyboard With Arpeggiator
 
+Features;
+
+Pot for tempo
+Pot for velocity
+Button with 5 Arp-modes
+Arp stop button
+Keyboard Octave Buttons with responsive LED brightness
+Switch to chose between keyboard and ARP mode  
+
+
+Note: to upload code to the board, you'll need the switch set to the left (aka keyboard mode)
+
+
 You'll need;
 
 17x   Push buttons (push to make type)<br />
